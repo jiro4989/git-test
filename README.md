@@ -7,7 +7,6 @@
 ```bash
 mkdir git-test
 cd $_
-echo test > README.md
 git init
 hub create
 
